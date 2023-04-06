@@ -2,6 +2,17 @@
 ## Description:
 A Library For Building Desktop Applications and Interfaces that is built on top of tkinter, customtkinter, and other libraries associated.
 
+## Getting Started:
+You can install the library simply by writing:
+
+``pip install desktopy``
+
+Now, make a file, in our case ``main.py``:
+```py
+from desktopy import elements
+
+
+```
 
 <hr>
 To build the application, just write:
