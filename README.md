@@ -1,4 +1,6 @@
-# DesktoPY - A Library For Building Desktop Applications and Interfaces that is built on top of tkinter, customtkinter, and other libraries associated.
+# [DesktoPY](https://pypi.org/project/desktopy/)
+## Description:
+A Library For Building Desktop Applications and Interfaces that is built on top of tkinter, customtkinter, and other libraries associated.
 
 
 <hr>
